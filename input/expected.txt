@@ -1,0 +1,93 @@
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00
+Number of Vehicles that are sold: 10
+
+Type : Petrol Car
+Model : Bugatti
+Age : 20
+Fuel Capacity : 37.0
+Number Of Doors : 0
+Price : 927643.27
+
+Type : Electric Car
+Model : CadillacCadilla
+Age : 11
+Battery Capacity : 6.0
+Number Of Doors : 3
+Price : 1000000.00
+
+Type : Petrol Car
+Model : CitroÃ«n
+Age : 20
+Fuel Capacity : 80.0
+Number Of Doors : 1
+Price : 350616.88
+
+Type : Electric Car
+Model : Ford
+Age : 20
+Battery Capacity : 600.0
+Number Of Doors : 7
+Price : 1000000.00
+
+Type : Electric Car
+Model : Cadillac
+Age : 6
+Battery Capacity : 192.0
+Number Of Doors : 6
+Price : 1000000.00
+
+Type : Bus
+Model : Daihatsu
+Age : 20
+Capacity : 15
+Price : 1098900.00
+
+Type : Truck
+Model : Chrysler
+Age : 13
+Tonnage : 5000
+Price : 630778.03
+
+Type : Electric Car
+Model : Chevrolet
+Age : 3
+Battery Capacity : 206.0
+Number Of Doors : 5
+Price : 122815.82
+
+Type : Truck
+Model : Audi
+Age : 3
+Tonnage : 2789
+Price : 96967.71
+
+Type : Electric Car
+Model : CitroÃ«n
+Age : 11
+Battery Capacity : 600.0
+Number Of Doors : 7
+Price : 981597.07
+
+
+Total Amount of Money : 7209318.78
+Number of Vehicles that are sold: 2
+
+Type : Truck
+Model : Abarth
+Age : 20
+Tonnage : 3498
+Price : 121761.67
+
+Type : Petrol Car
+Model : BMW
+Age : 20
+Fuel Capacity : 59.0
+Number Of Doors : 3
+Price : 127400.80
+
+
+Total Amount of Money : 249162.47

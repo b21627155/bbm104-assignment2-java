@@ -1,0 +1,67 @@
+Number of Vehicles that are sold: 5
+
+Type : Petrol Car
+Model : Mazda
+Age : 20
+Fuel Capacity : 100
+Number of Doors : 4
+Price : 150.50
+
+Type : Electric Car
+Model : Toyota
+Age : 20
+Battery Capacity : 200
+Number of Doors : 2
+Price : 70.58
+
+Type : Petrol Car
+Model : BMW
+Age : 7
+Fuel Capacity : 150
+Number of Doors : 2
+Price : 220.61
+
+Type : Bus
+Model : MAN
+Age : 5
+Capacity : 60
+Price : 549.73
+
+Type : Truck
+Model : BMC
+Age : 5
+Tonnage : 1000
+Price : 544.02
+
+
+Total Amount of Money : 1535.43
+
+Number of Vehicles that are sold: 3
+
+Type : Truck
+Model : BMC
+Age : 5
+Tonnage : 1000
+Price : 544.02
+
+Type : Electric Car
+Model : Toyota
+Age : 20
+Battery Capacity : 200
+Number of Doors : 2
+Price : 70.58
+
+Type : Bus
+Model : MAN
+Age : 5
+Capacity : 60
+Price : 549.73
+
+
+Total Amount of Money : 1164.33
+
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00

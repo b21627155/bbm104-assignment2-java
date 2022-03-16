@@ -1,0 +1,11 @@
+Petrol 20 Mazda 150.50056 4 100
+Electric 50 Toyota 70.579345 2 200
+Petrol 7 BMW 220.605890 2 150
+Bus 5 MAN 520.58012 5.6 60
+Truck 5 BMC 520.589 4.5 1000
+print
+Truck 5 BMC 520.589 4.5 1000
+Electric 50 Toyota 70.579345 2 200
+Bus 5 MAN 520.58012 5.6 60
+print
+print
